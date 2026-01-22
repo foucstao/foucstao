@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @foucstao
-- 👀 I’m interested in Safe Reinfocement Learning, LLM
-- 🌱 I’m currently working in Institute of Automation, Chinese Academy of Sciences
 
 
 <!---
